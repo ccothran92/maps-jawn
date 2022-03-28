@@ -1,0 +1,19 @@
+{
+  "name": "maps-jawn",
+  "version": "1.0.0",
+  "description": "A jawn to jawn-ify my maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccothran92/maps-jawn.git"
+  },
+  "author": "Chris Cothran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccothran92/maps-jawn/issues"
+  },
+  "homepage": "https://github.com/ccothran92/maps-jawn#readme"
+}
